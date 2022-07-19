@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Tarea app\Tarea app\bin\Debug\Tarea app.exe.config
+C:\Users\admin\source\repos\Tarea app\Tarea app\bin\Debug\Tarea app.exe
+C:\Users\admin\source\repos\Tarea app\Tarea app\bin\Debug\Tarea app.pdb
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea app.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea app.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea_app.Properties.Resources.resources
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea app.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea app.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea app.exe
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea app.pdb
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea_app.formEdit.resources
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea_app.Presentacion.resources
+C:\Users\admin\source\repos\Tarea app\Tarea app\obj\Debug\Tarea_app.formPaint.resources
